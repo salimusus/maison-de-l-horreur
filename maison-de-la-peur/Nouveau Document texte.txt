@@ -1,0 +1,16 @@
+maison-de-la-peur/
+├── index.html
+└── zombies/
+    ├── Yaku_J_Ignite.fbx
+    ├── running_crawl.fbx
+    ├── zombie_attack.fbx
+    ├── zombie_biting.fbx
+    ├── zombie_biting__2_.fbx
+    ├── zombie_crawl.fbx
+    ├── zombie_death.fbx
+    ├── zombie_dying.fbx
+    ├── zombie_idle.fbx
+    ├── zombie_neck_bite.fbx
+    ├── zombie_run.fbx
+    ├── zombie_scream.fbx
+    └── zombie_walk.fbx
